@@ -23,7 +23,7 @@ This Python To-Do List GUI Application is a simple yet effective tool for managi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/riaz-pa/todo-list-app.git
 
 2. Change to the project directory:
    ```bash
